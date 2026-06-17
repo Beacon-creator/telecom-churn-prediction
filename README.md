@@ -79,10 +79,8 @@ The models were evaluated using:
 - F1-score
 - Classification report
 
-The accuracy scores were:
+The accuracy scores for each model were:
 
-| Model | Accuracy |
-| --- | ---: |
 | Logistic Regression | 0.79 |
 | Random Forest | 0.7885 |
 
